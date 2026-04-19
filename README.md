@@ -77,10 +77,7 @@ This project provides actionable insights that can help improve:
 - Recommendation systems
 - Advanced forecasting models
 
----
 
-## 📸 Dashboard Preview
-![Dashboard](your-image-link-here)
 
 ---
 
